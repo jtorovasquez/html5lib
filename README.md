@@ -1,2 +1,2 @@
 # html5lib
-$ apt-get install python-html5lib
+$ pip install html5lib
